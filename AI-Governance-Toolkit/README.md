@@ -11,4 +11,4 @@ This repository demonstrates a practical approach to maintaining visibility and 
 - **AI_Governance_Workflow.png**: Visual overview of the AI governance lifecycle: intake, risk assessment, approval, and monitoring.
 
 ## Context
-Built to explore how organisations can operationalise AI governance in practice — particularly relevant as AI adoption accelerates faster than most governance structures can keep pace with. This reflects an interest in bridging technical AI literacy with structured, auditable governance discipline.
+Built to explore how organisations can operationalise AI governance in practice, particularly relevant as AI adoption accelerates faster than most governance structures can keep pace with. This reflects an interest in bridging technical AI literacy with structured, auditable governance discipline.
