@@ -1,7 +1,7 @@
 # AI Governance Toolkit
 
 ## Purpose
-This repository demonstrates a practical approach to maintaining visibility and control over AI systems across an organisation — covering inventory, risk classification, ownership, and review cycles, mapped to NIST AI RMF principles and ISO/IEC 42001 concepts. Built to reflect how AI governance can move from policy language into an operational, auditable process.
+This repository demonstrates a practical approach to maintaining visibility and control over AI systems across an organisation, covering inventory, risk classification, ownership, and review cycles, mapped to NIST AI RMF principles and ISO/IEC 42001 concepts. Built to reflect how AI governance can move from policy language into an operational, auditable process.
 
 ## Contents
 - **AI_System_Register.csv**: Example inventory of AI systems with ownership, risk classification, data sensitivity, and approval status.
