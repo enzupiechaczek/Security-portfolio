@@ -1,0 +1,9 @@
+System Name,Owner,Business Unit,Model / Vendor,Risk Classification,Human Oversight Level,Data Sensitivity,Last Review Date,Approval Status,Privacy Impact Assessment
+Customer Support Chatbot,Head of Customer Experience,Retail Operations,Azure OpenAI (GPT-4),Medium,Human-in-the-loop for escalations,Confidential (customer PII),2026-05-12,Approved,Yes
+Claims Fraud Detection Model,Head of Claims,Claims Processing,Internal ML Model (Azure ML),High,Human review required for all flagged claims,Restricted (financial + PII),2026-06-01,Approved with conditions,Yes
+Underwriting Risk Scoring Assistant,Head of Underwriting,Underwriting,Azure AI Foundry,High,Human approval required for all decisions,Restricted (financial + PII),2026-04-20,Under Review,Yes
+Internal HR Policy Q&A Bot,Head of People & Culture,HR,Azure OpenAI (GPT-4),Low,No human review required (informational only),Internal (non-sensitive),2026-03-15,Approved,No
+Marketing Content Generator,Head of Marketing,Marketing,Azure OpenAI (GPT-4),Low,Human review before publishing,Public (non-sensitive),2026-02-28,Approved,No
+Threat Intelligence Summariser,Head of Information Security,IS Function,Azure AI Foundry,Medium,Human validation of all summaries,Confidential (security data),2026-06-10,Approved,Yes
+Vendor Risk Assessment Assistant,Head of Procurement,Procurement,Azure OpenAI (GPT-4),Medium,Human sign-off required on all outputs,Confidential (vendor data),2026-05-30,Under Review,Yes
+AI Meeting Notes Transcription Tool,IT Manager,IT Operations,Microsoft Copilot,Low,No review required for internal notes,Internal (non-sensitive),2026-01-18,Approved,No
