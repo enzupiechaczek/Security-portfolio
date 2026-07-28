@@ -11,7 +11,7 @@ A lightweight Python tool that parses SSH authentication logs and flags IP addre
 
 ## Why I Built This
 
-While working on penetration testing labs (SMB, SQL injection, Redis enumeration), I wanted to build something from the defensive side too — a simple tool that mirrors what a SOC analyst or IT team might use to spot brute-force activity in real server logs, combining my interest in security with practical Python automation.
+While working on penetration testing labs (SMB, SQL injection, Redis enumeration), I wanted to build something from the defensive side too, a simple tool that mirrors what a SOC analyst or IT team might use to spot brute-force activity in real server logs, combining my interest in security with practical Python automation.
 
 ## Example Output
 
