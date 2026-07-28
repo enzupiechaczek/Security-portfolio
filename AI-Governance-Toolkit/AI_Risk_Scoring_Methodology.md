@@ -21,9 +21,9 @@ This document outlines a lightweight, practical methodology for scoring risk acr
 | Almost Certain (5) | 5 | 10 | 15 | 20 | 25 |
 
 ## Risk Rating Bands
-- **1-6: Low** — Monitor via standard review cycle.
-- **7-14: Medium** — Requires documented mitigation and periodic reassessment.
-- **15-25: High** — Requires human-in-the-loop controls, executive sign-off, and frequent review.
+- **1-6: Low**: Monitor via standard review cycle.
+- **7-14: Medium**: Requires documented mitigation and periodic reassessment.
+- **15-25: High**: Requires human-in-the-loop controls, executive sign-off, and frequent review.
 
 ## Application to AI Register
 Each system in the AI System Register is assigned a Risk Classification (Low/Medium/High) derived from this matrix, considering:
