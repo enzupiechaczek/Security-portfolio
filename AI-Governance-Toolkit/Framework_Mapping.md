@@ -12,4 +12,4 @@ This document maps the AI Governance Toolkit's register fields and processes to 
 | Privacy Impact Assessment | Map | Clause 6.1.4 (AI System Impact Assessment) |
 
 ## Why This Mapping Matters
-Mapping practical governance artefacts back to recognised frameworks demonstrates that ad-hoc coordination work (registers, forums, reporting) is not just administrative — it operationalises internationally recognised risk management principles. This is particularly relevant as organisations move from informal AI adoption toward structured, auditable AI governance programs.
+Mapping practical governance artefacts back to recognised frameworks demonstrates that ad-hoc coordination work (registers, forums, reporting) is not just administrative, it operationalises internationally recognised risk management principles. This is particularly relevant as organisations move from informal AI adoption toward structured, auditable AI governance programs.
