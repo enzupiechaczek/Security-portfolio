@@ -12,8 +12,20 @@ A lightweight Python tool that parses SSH authentication logs and flags brute-fo
 ### 📋 [AI Governance Toolkit](./AI-Governance-Toolkit)
 A practical toolkit demonstrating how organisations can maintain visibility and control over AI systems, including a populated AI system register, risk scoring methodology, policy template, and framework mapping to NIST AI RMF and ISO/IEC 42001.
 
-**Skills demonstrated:** AI governance, risk assessment, framework mapping, structured documentation, policy drafting.
+
+**Demonstrates:** AI governance, risk assessment, policy development, framework alignment, register design, and governance documentation.
+
+## Focus Areas
+
+* Information security governance
+* AI governance
+* Risk management
+* Security documentation
+* Governance registers
+* Security operations support
+* Python automation
+* Defensive security
 
 ## About This Portfolio
 
-Built to reflect a growing interest at the intersection of technical security, AI governance, and structured risk management, combining hands-on technical exploration with the documentation and governance discipline needed to operationalise security and AI policy in practice.
+This portfolio reflects my interest in building security capabilities that combine technical security, governance, risk, and operational discipline.
