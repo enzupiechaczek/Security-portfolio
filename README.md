@@ -1,6 +1,6 @@
 # Security & Governance Portfolio
 
-A collection of hands-on projects spanning technical security automation and information security / AI governance practice.
+A portfolio of practical projects focused on **information security, AI governance, risk management, and security operations**\. The projects are designed to demonstrate both technical security capability and the governance, documentation, and assurance practices required to operationalise security within an organisation\.
 
 ## Projects
 
