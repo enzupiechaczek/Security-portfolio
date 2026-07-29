@@ -1,4 +1,4 @@
-![Security, Governance, AI Risk banner](GitHub banner.png)
+![Security, Governance, AI Risk banner](GitHub-banner.png)
 # Security & Governance Portfolio
 
 A portfolio of practical projects focused on **information security, AI governance, risk management, and security operations**\. The projects are designed to demonstrate both technical security capability and the governance, documentation, and assurance practices required to operationalise security within an organisation\.
