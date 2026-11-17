@@ -9,7 +9,7 @@ A self-directed risk assessment of **SmartDesk**, an AI ticket-triage training a
 | File | What it is |
 |---|---|
 | [Self-assessment report (PDF)](SmartDesk_ISO27001_Self_Assessment_Report.pdf) | Scope, method, risk results, treatments completed, limitations (2 pages) |
-| [Risk assessment and SoA workbook (Excel)](ISO27001-SmartDesk-Assessment/SmartDesk_ISO27001_Risk_Assessment_SoA.xlsx) | Scope, 10 assets, 15 risks with residual scores, Statement of Applicability for all 93 Annex A controls, clause 4-10 gap analysis, hypothetical "if deployed" scores |
+| [Risk assessment and SoA workbook (Excel)]([ISO27001-SmartDesk-Assessment/SmartDesk_ISO27001_Risk_Assessment_SoA.xlsx](https://github.com/enzupiechaczek/Security-portfolio/blob/main/ISO27001-SmartDesk-Assessment/SmartDesk_ISO27001_Risk_Assessment_SoA.xlsx)) | Scope, 10 assets, 15 risks with residual scores, Statement of Applicability for all 93 Annex A controls, clause 4-10 gap analysis, hypothetical "if deployed" scores |
 
 ## Evidence
 
