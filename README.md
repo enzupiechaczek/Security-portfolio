@@ -27,6 +27,11 @@ A practical toolkit demonstrating how organisations can maintain visibility and 
 * Python automation
 * Defensive security
 
+### 📑 [ISO 27001 Self-Assessment: SmartDesk](./ISO27001-SmartDesk-Assessment)
+A self-directed ISO/IEC 27001:2022 risk assessment of an AI ticket-triage application I designed: asset register, 15 scored risks, Statement of Applicability for all 93 Annex A controls, clause 4-10 gap analysis, and verified remediation through a reviewed pull request.
+
+**Demonstrates:** ISO 27001 risk assessment, SoA, gap analysis, evidence-based findings, remediation and residual risk, honest scoping of limitations.
+
 ## About This Portfolio
 
 This portfolio reflects my interest in building security capabilities that combine technical security, governance, risk, and operational discipline.
