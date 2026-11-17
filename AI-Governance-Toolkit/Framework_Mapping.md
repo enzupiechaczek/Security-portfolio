@@ -9,7 +9,7 @@ This document maps the AI Governance Toolkit's register fields and processes to 
 | Human Oversight Level field | Manage | Clause 8 (Operational Controls) |
 | Approval Workflow | Govern | Clause 5 (Leadership & Accountability) |
 | Review Cycle / Monitoring | Measure, Manage | Clause 9 (Performance Evaluation) |
-| Privacy Impact Assessment | Map | Clause 6.1.4 (AI System Impact Assessment) |
+| Privacy Impact Assessment | Map | Supports Clause 6.1.4 (AI System Impact Assessment); a PIA covers privacy only, so it is an input to the AI impact assessment, not a replacement for it |
 
 ## Why This Mapping Matters
 Mapping practical governance artefacts back to recognised frameworks demonstrates that ad-hoc coordination work (registers, forums, reporting) is not just administrative, it operationalises internationally recognised risk management principles. This is particularly relevant as organisations move from informal AI adoption toward structured, auditable AI governance programs.

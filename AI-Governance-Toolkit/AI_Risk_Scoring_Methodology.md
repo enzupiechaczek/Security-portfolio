@@ -21,13 +21,18 @@ This document outlines a lightweight, practical methodology for scoring risk acr
 | Almost Certain (5) | 5 | 10 | 15 | 20 | 25 |
 
 ## Risk Rating Bands
-- **1-6: Low**: Monitor via standard review cycle.
-- **7-14: Medium**: Requires documented mitigation and periodic reassessment.
-- **15-25: High**: Requires human-in-the-loop controls, executive sign-off, and frequent review.
+- **1-5: Low**: Monitor via standard review cycle.
+- **6-11: Medium**: Requires documented mitigation and periodic reassessment.
+- **12-19: High**: Requires human-in-the-loop controls, executive sign-off, and frequent review.
+- **20-25: Critical**: Do not approve for deployment without executive sign-off and a documented risk treatment plan.
+
+These bands are the same as those used in my [ISO 27001 self-assessment of SmartDesk](../ISO27001-SmartDesk-Assessment), so scores are comparable across the portfolio.
 
 ## Application to AI Register
-Each system in the AI System Register is assigned a Risk Classification (Low/Medium/High) derived from this matrix, considering:
+Each system in the AI System Register records a Likelihood and Impact score. The Risk Score (Likelihood x Impact) determines the Risk Classification (Low, Medium or High; a Critical score would block approval), considering:
 1. Sensitivity of data processed
 2. Degree of autonomous decision-making
 3. Potential impact of an incorrect or biased output
 4. Regulatory exposure (e.g., privacy, financial, consumer protection)
+
+Systems are reviewed at least every 6 months. The register's Next Review Due column shows when each review is due.
