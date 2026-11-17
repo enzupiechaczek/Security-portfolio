@@ -6,7 +6,7 @@ A lightweight Python tool that parses SSH authentication logs and flags IP addre
 
 - Parses log files for failed SSH login attempts (`Failed password for ...` lines)
 - Counts failed attempts per source IP and per targeted username
-- Flags any IP exceeding a configurable threshold (default: 3 failed attempts)
+- Flags any IP with at least the threshold number of failed attempts (default: 3, change it with `--threshold`)
 - Outputs a clear summary report with remediation recommendations
 
 ## Why I Built This
@@ -33,9 +33,16 @@ Suspicious IPs (>= 3 failed attempts):
 
 ```
 python log_analyzer.py sample_auth.log
+python log_analyzer.py sample_auth.log --threshold 5
 ```
 
-Run it against any real SSH auth log (e.g., `/var/log/auth.log` on a Linux system) or use the included `sample_auth.log` for a quick demo.
+Run it against a log you are authorised to analyse (e.g., `/var/log/auth.log` on a Linux system you administer) or use the included `sample_auth.log` for a quick demo.
+
+## Limitations
+
+- Only matches `Failed password` lines, so it misses other failure types such as failed public-key attempts.
+- IPv4 addresses only. IPv6 sources are not matched.
+- It counts attempts over the whole file, with no time window, so slow attacks and bursts look the same.
 
 ## Possible Future Improvements
 
@@ -46,4 +53,4 @@ Run it against any real SSH auth log (e.g., `/var/log/auth.log` on a Linux syste
 
 ## Skills Demonstrated
 
-Python scripting, regex pattern matching, log parsing, brute-force attack detection, basic security automation.
+Python scripting, regex pattern matching, log parsing, brute-force attack detection, command-line interfaces, basic security automation.

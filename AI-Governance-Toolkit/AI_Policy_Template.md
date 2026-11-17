@@ -1,5 +1,13 @@
 # AI Use Policy Template
 
+| Document control | |
+|---|---|
+| Version | 1.0 (template) |
+| Policy owner | Head of Information Security |
+| Approved by | AI Governance Forum |
+| Effective date | [insert date] |
+| Next review | [effective date + 12 months] |
+
 ## 1. Purpose
 This policy establishes the principles and controls governing the responsible use, deployment, and monitoring of Artificial Intelligence (AI) systems within the organisation.
 
@@ -27,4 +35,13 @@ Applies to all AI systems, including third-party and internally developed models
 All AI systems processing personal information must undergo a Privacy Impact Assessment prior to approval, in line with applicable data protection legislation (e.g., POPIA).
 
 ## 7. Review Cycle
-All AI systems are subject to review at least every 6 months, or sooner if performance issues, incidents, or regulatory changes occur.
+All AI systems are subject to review at least every 6 months, or sooner if performance issues, incidents, or regulatory changes occur. The AI System Register records the last review date and the next review due date for each system.
+
+## 8. Exceptions
+Any exception to this policy must be requested in writing by the AI System Owner, assessed against the AI Risk Scoring Methodology, approved by the AI Governance Forum, time-limited, and recorded in the AI System Register.
+
+## 9. Incident Reporting
+Suspected AI incidents (for example harmful or biased outputs, data leakage, or unexpected model behaviour) must be reported to the Head of Information Security without delay. The AI System Owner records the incident, assesses its impact and updates the system's risk score and review date if required.
+
+## 10. Third-Party AI
+AI services provided by third parties must be registered and risk-assessed before use. The assessment must cover where data is processed and stored, whether organisational data is used to train vendor models, and the vendor's security and privacy commitments.
