@@ -1,7 +1,7 @@
 ![Security, Governance, AI Risk banner](GitHub-banner.png)
 # Security & Governance Portfolio
 
-A portfolio of practical projects focused on **information security, AI governance, risk management, and security operations**\. The projects are designed to demonstrate both technical security capability and the governance, documentation, and assurance practices required to operationalise security within an organisation\.
+A portfolio of practical projects focused on **information security, AI governance, risk management, and security operations**. The projects are designed to demonstrate both technical security capability and the governance, documentation, and assurance practices required to operationalise security within an organisation.
 
 ## Projects
 
@@ -13,13 +13,12 @@ A lightweight Python tool that parses SSH authentication logs and flags brute-fo
 ### 📋 [AI Governance Toolkit](./AI-Governance-Toolkit)
 A practical toolkit demonstrating how organisations can maintain visibility and control over AI systems, including a populated AI system register, risk scoring methodology, policy template, and framework mapping to NIST AI RMF and ISO/IEC 42001.
 
-
 **Demonstrates:** AI governance, risk assessment, policy development, framework alignment, register design, and governance documentation.
 
 ### 📑 [ISO 27001 Self-Assessment: SmartDesk](./ISO27001-SmartDesk-Assessment)
 A self-directed ISO/IEC 27001:2022 risk assessment of an AI ticket-triage application I designed: asset register, 15 scored risks, Statement of Applicability for all 93 Annex A controls, clause 4-10 gap analysis, and verified remediation through a reviewed pull request.
 
-**Demonstrates:** ISO 27001 risk assessment, SoA, gap analysis, evidence-based findings, remediation and residual risk, honest scoping of limitations.
+**Demonstrates:** ISO 27001 risk assessment, Statement of Applicability, gap analysis, evidence-based findings, remediation and residual risk, and honest scoping of limitations.
 
 ## Focus Areas
 
